@@ -9,7 +9,7 @@
 ### Links
 
 - Code URL: [Animation code](https://github.com/vimal-oneway/Background-Animation)
-- Live Site URL: [Animation demo](https://your-live-site-url.com)
+- Live Site URL: [Animation demo](https://vimal-oneway.github.io/Background-Animation/)
 
 ### Built with
 
