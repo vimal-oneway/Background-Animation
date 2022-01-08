@@ -16,6 +16,4 @@
 - Semantic HTML5 markup
 - CSS custom properties
 
-## Author
 
-- Frontend Mentor - [@webie](https://www.frontendmentor.io/profile/webie)
