@@ -8,7 +8,7 @@
 
 ### Links
 
-- Code URL: [Animation code](https://your-solution-url.com)
+- Code URL: [Animation code](https://github.com/vimal-oneway/Background-Animation)
 - Live Site URL: [Animation demo](https://your-live-site-url.com)
 
 ### Built with
