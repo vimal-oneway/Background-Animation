@@ -4,7 +4,6 @@
 
 - [Links](#links)
 - [html, css](#built-with)
-- [Webie](#author)
 
 ### Links
 
